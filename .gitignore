@@ -1,3 +1,4 @@
 build/
 build_emcc/
 .vscode/
+out/
